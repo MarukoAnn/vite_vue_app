@@ -1,0 +1,20 @@
+{
+  "name": "vite_vue_app",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite --port 4600 --open",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.0.5",
+    "vue-router": "^4.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.35",
+    "@vitejs/plugin-vue": "^1.1.5",
+    "@vue/compiler-sfc": "^3.0.5",
+    "typescript": "^4.1.3",
+    "vite": "^2.0.5"
+  }
+}
